@@ -1,9 +1,9 @@
 {
-  "version": "8.3.0.13",
+  "version": "8.3.0.14",
   "channel": "beta",
   "mandatory": false,
-  "download_url": "https://github.com/vincenplepi-ops/gestpro-updates/releases/download/v8.3.0.13/GESTPRO_Setup_8.3.0.13.exe",
-  "sha256": "ce2bce78147183d9821f5380941aaf710624b212de09c45a04dbb53a54c44f38",
+  "download_url": "https://github.com/vincenplepi-ops/gestpro-updates/releases/download/v8.3.0.14/GESTPRO_Setup_8.3.0.14.exe",
+  "sha256": "ca8b529539c3c428e78be2b53b1f6eb593df24fb150531a1663bad10da7a6e28",
   "notes": "- Installer con pubblicazione automatica\n- Aggiornamenti automatici attivati\n- Miglioramenti e correzioni",
-  "published_at": "2026-07-25T02:05:47+02:00"
+  "published_at": "2026-07-25T02:07:06+02:00"
 }
