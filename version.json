@@ -1,9 +1,9 @@
 {
-  "version": "9.2.0",
+  "version": "12.0.0",
   "channel": "beta",
   "mandatory": false,
-  "download_url": "https://github.com/vincenplepi-ops/gestpro-updates/releases/download/v9.2.0/GESTPRO_Setup_9.2.0.exe",
-  "sha256": "792d29faffb1d2d22db8ba852790167f14859091a7b0731da3d40048667da491",
+  "download_url": "https://github.com/vincenplepi-ops/gestpro-updates/releases/download/v12.0.0/GESTPRO_Setup_12.0.0.exe",
+  "sha256": "d64248ef666ec00662804a6bf259d21cad42ce2dd46d29e87a4d194b096cfc75",
   "notes": "- Correzione chiusura automatica di GESTPRO\n- Finestra aggiornamento sempre davanti dopo il login\n- Barra avanzamento e riavvio automatico a fine installazione\n- Versione unica sincronizzata tra programma, installer e GitHub",
-  "published_at": "2026-07-25T06:04:01+02:00"
+  "published_at": "2026-07-25T06:32:09+02:00"
 }
