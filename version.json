@@ -1,9 +1,9 @@
 {
-  "version": "8.3.0.16",
+  "version": "9.0.0",
   "channel": "beta",
   "mandatory": false,
-  "download_url": "https://github.com/vincenplepi-ops/gestpro-updates/releases/download/v8.3.0.16/GESTPRO_Setup_8.3.0.16.exe",
-  "sha256": "6f4c83167c178ad1301704d6e947148852ae788595ffbfe0b49ed97354561433",
-  "notes": "- Installer con pubblicazione automatica\n- Aggiornamenti automatici attivati\n- Miglioramenti e correzioni",
-  "published_at": "2026-07-25T02:22:36+02:00"
+  "download_url": "https://github.com/vincenplepi-ops/gestpro-updates/releases/download/v9.0.0/GESTPRO_Setup_9.0.0.exe",
+  "sha256": "914d74b1445cc1f1d105ea4c56f6a69f2e33b7b1002bba91628e374f387cf9c1",
+  "notes": "- Nuovo aggiornamento con barra di avanzamento\n- Versione unica sincronizzata in tutto il programma\n- Correzione chiusura e riavvio applicazione\n- Pulizia e rigenerazione pacchetto GESTPRO Enterprise 9.0",
+  "published_at": "2026-07-25T02:31:41+02:00"
 }
